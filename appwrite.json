@@ -1,0 +1,21 @@
+{
+    "projectId": "63ef7c7a6ef6335e7373",
+    "projectName": "real-time-health-data-insight",
+    "functions": [
+        {
+            "$id": "63f288fb2593146a0afb",
+            "name": "health-data-function",
+            "runtime": "node-16.0",
+            "path": "functions/health-data-function",
+            "entrypoint": "src/index.js",
+            "ignore": [
+                "node_modules",
+                ".npm"
+            ],
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        }
+    ]
+}

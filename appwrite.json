@@ -1,9 +1,9 @@
 {
-    "projectId": "63ef7c7a6ef6335e7373",
+    "projectId": "64305cba1ae12028fcfd",
     "projectName": "real-time-health-data-insight",
     "functions": [
         {
-            "$id": "63f288fb2593146a0afb",
+            "$id": "643063a1c247b8912955",
             "name": "health-data-function",
             "runtime": "node-16.0",
             "path": "functions/health-data-function",

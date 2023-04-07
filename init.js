@@ -3,9 +3,9 @@ export const client = new Client()
 export const account = new Account(client)
 client
   .setEndpoint('http://localhost/v1') // Your API Endpoint
-  .setProject('63ef7c7a6ef6335e7373') // Your project ID
+  .setProject('64305cba1ae12028fcfd') // Your project ID
 
 export const insightFunction = () => {
   const functions = new Functions(client)
-  return functions.createExecution('63f288fb2593146a0afb')
+  return functions.createExecution('643063a1c247b8912955')
 }

@@ -1,4 +1,4 @@
-# real-time-health-data-insight
+# Real-time-health-data-insight
 
 ## Build Setup
 
